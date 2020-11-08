@@ -101,8 +101,7 @@ const educationInfo = {
       logo: require("./assets/images/ucsdLogo.png"),
       subHeader: "Bachelor of Science in Chemical Engineering",
       duration: "September 2012- July 2016",
-      desc:
-        "Solid preparation for professional work in development, design, and operation of chemical products and processes.",
+      desc: "Solid preparation for professional work in development, design, and operation of chemical products and processes.",
       descBullets: [],
     },
   ],
@@ -195,19 +194,16 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "AP Scholar With Distinction",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         {
           name: "Certification",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing",
         },
         {
           name: "Award Letter",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing",
         },
         {
           name: "Google Code-in Blog",
@@ -217,8 +213,7 @@ const achievementSection = {
     },
     {
       title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       footerLink: [
         {
@@ -251,8 +246,7 @@ const blogSection = {
 
   blogs: [
     {
-      url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
@@ -289,14 +283,12 @@ const podcastSection = {
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
-  ],
+  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"],
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle: "Want to discuss a project or just want to say hi? My inbox is open: ",
   number: "+1-8184567077",
   email_address: "arielfrischer@gmail.com",
 };
