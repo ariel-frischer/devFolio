@@ -98,14 +98,12 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of California, San Diego",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/ucsdLogo.png"),
       subHeader: "Bachelor of Science in Chemical Engineering",
-      duration: "September 2010- April 2015",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Learned fundamental chemical engineering skills.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      ],
+      duration: "September 2012- July 2016",
+      desc:
+        "Solid preparation for professional work in development, design, and operation of chemical products and processes.",
+      descBullets: [],
     },
   ],
 };
