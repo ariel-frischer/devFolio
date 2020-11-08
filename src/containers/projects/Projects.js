@@ -7,9 +7,7 @@ import { openSource, socialMediaLinks } from "../../portfolio";
 import { StyleConsumer } from "../../contexts/StyleContext";
 import Loading from "../../containers/loading/Loading";
 export default function Projects() {
-  const GithubRepoCard = lazy(() =>
-    import("../../components/githubRepoCard/GithubRepoCard")
-  );
+  const GithubRepoCard = lazy(() => import("../../components/githubRepoCard/GithubRepoCard"));
   const FailedLoading = () => null;
   const renderLoader = () => <Loading />;
   const [repo, setrepo] = useState([]);
@@ -84,9 +82,7 @@ export default function Projects() {
           <h1 className="project-title">Open Source Projects</h1>
           <div className="repo-cards-div-main">
             {repo.map((v, i) => {
-              return (
-                <GithubRepoCard repo={v} key={v.node.id} isDark={isDark} />
-              );
+              return <GithubRepoCard repo={v} key={v.node.id} isDark={isDark} />;
             })}
           </div>
           <Button
