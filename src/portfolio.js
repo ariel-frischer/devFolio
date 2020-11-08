@@ -182,7 +182,7 @@ const bigProjects = {
   subtitle: "STARTUPS & BUSINESSES",
   projects: [
     {
-      image: require("./assets/images/initiateLogo.png"),
+      image: require("./assets/images/initiate-transparent-logo.png"),
       link: "https://app.initiate.ai",
     },
   ],
