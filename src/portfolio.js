@@ -21,7 +21,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/arielfrischer/",
   gmail: "arielfrischer@gmail.com",
   gitlab: "https://gitlab.com/ariel-frischer",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  // facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@arielfrischer",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram and Twitter are also supported in the links!
@@ -54,10 +54,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sass",
       fontAwesomeClassname: "fab fa-sass",
     },
-    {
-      skillName: "Typescript",
-      fontAwesomeClassname: "fab fa-ts",
-    },
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js",
@@ -174,7 +171,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "saadpasta", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "ariel-frischer", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
