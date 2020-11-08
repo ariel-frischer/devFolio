@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ariel-frischer.github.io/devFolio",
-  "name": "devFolio-ariel-frischer",
+  "homepage": "https://ariel-frischer.github.io/portfolio",
+  "name": "dev-folio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
