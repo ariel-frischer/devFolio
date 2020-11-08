@@ -302,8 +302,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com",
+  number: "+1-8184567077",
+  email_address: "arielfrischer@gmail.com",
 };
 
 //Twitter Section
