@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "507acbc79d1a49bdeb478027dbf8699b",
+    "revision": "ff8ffcf7a44d72cdc7b1612767611da6",
     "url": "/devFolio/index.html"
   },
   {
-    "revision": "02aa3faef8838266f90a",
+    "revision": "d88ba4dadd7fda24c1ce",
     "url": "/devFolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "f96a1296e07635d53b83",
+    "revision": "bcdd4a484f70c29324d5",
     "url": "/devFolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "3f4cee9350f458de87fa",
+    "revision": "e3d5a912819c56df676a",
     "url": "/devFolio/static/css/main.f50b41e5.chunk.css"
   },
   {
-    "revision": "0c71daf1d775d0b3175e",
-    "url": "/devFolio/static/js/2.a277452d.chunk.js"
+    "revision": "fcdf296260e490140952",
+    "url": "/devFolio/static/js/2.d9339171.chunk.js"
   },
   {
-    "revision": "02aa3faef8838266f90a",
-    "url": "/devFolio/static/js/3.4611bd61.chunk.js"
+    "revision": "d88ba4dadd7fda24c1ce",
+    "url": "/devFolio/static/js/3.65d0da73.chunk.js"
   },
   {
-    "revision": "f96a1296e07635d53b83",
-    "url": "/devFolio/static/js/4.4a0d2d51.chunk.js"
+    "revision": "bcdd4a484f70c29324d5",
+    "url": "/devFolio/static/js/4.a30b9a96.chunk.js"
   },
   {
-    "revision": "3f4cee9350f458de87fa",
-    "url": "/devFolio/static/js/main.8ef2c477.chunk.js"
+    "revision": "e3d5a912819c56df676a",
+    "url": "/devFolio/static/js/main.1433d3fc.chunk.js"
   },
   {
-    "revision": "08e19b5b09976e534048",
-    "url": "/devFolio/static/js/runtime-main.1121562d.js"
+    "revision": "c97da05b94ccc7c4f70a",
+    "url": "/devFolio/static/js/runtime-main.4086c0c9.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -130,5 +130,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
     "url": "/devFolio/static/media/talksCardBackAlt.b48e86c9.svg"
+  },
+  {
+    "revision": "ecaa57d13c9f6a0509e38d7951da9a23",
+    "url": "/devFolio/static/media/ucsdLogo.ecaa57d1.png"
   }
 ]);
