@@ -17,11 +17,7 @@ function Header() {
           <span className="grey-color">/&gt;</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
-        <label
-          className="menu-icon"
-          htmlFor="menu-btn"
-          style={{ color: "white" }}
-        >
+        <label className="menu-icon" htmlFor="menu-btn" style={{ color: "white" }}>
           <span className={isDark ? "navicon navicon-dark" : "navicon"}></span>
         </label>
         <ul className={isDark ? "dark-menu menu" : "menu"}>
@@ -33,18 +29,18 @@ function Header() {
               <a href="#experience">Work Experiences</a>
             </li>
           )}
-          <li>
+          {/* <li>
             <a href="#opensource">Open Source</a>
-          </li>
-          <li>
+          </li> */}
+          {/* <li>
             <a href="#achievements">Achievements</a>
-          </li>
-          <li>
+          </li> */}
+          {/* <li>
             <a href="#blogs">Blogs</a>
           </li>
           <li>
             <a href="#talks">Talks</a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact">Contact Me</a>
           </li>
