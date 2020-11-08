@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/devFolio/static/css/main.f50b41e5.chunk.css",
-    "main.js": "/devFolio/static/js/main.cfa2f655.chunk.js",
-    "main.js.map": "/devFolio/static/js/main.cfa2f655.chunk.js.map",
-    "runtime-main.js": "/devFolio/static/js/runtime-main.a002b3f0.js",
-    "runtime-main.js.map": "/devFolio/static/js/runtime-main.a002b3f0.js.map",
-    "static/js/2.26cc6723.chunk.js": "/devFolio/static/js/2.26cc6723.chunk.js",
-    "static/js/2.26cc6723.chunk.js.map": "/devFolio/static/js/2.26cc6723.chunk.js.map",
+    "main.js": "/devFolio/static/js/main.8ef2c477.chunk.js",
+    "main.js.map": "/devFolio/static/js/main.8ef2c477.chunk.js.map",
+    "runtime-main.js": "/devFolio/static/js/runtime-main.1121562d.js",
+    "runtime-main.js.map": "/devFolio/static/js/runtime-main.1121562d.js.map",
+    "static/js/2.a277452d.chunk.js": "/devFolio/static/js/2.a277452d.chunk.js",
+    "static/js/2.a277452d.chunk.js.map": "/devFolio/static/js/2.a277452d.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/devFolio/static/css/3.00373544.chunk.css",
-    "static/js/3.c160f379.chunk.js": "/devFolio/static/js/3.c160f379.chunk.js",
-    "static/js/3.c160f379.chunk.js.map": "/devFolio/static/js/3.c160f379.chunk.js.map",
+    "static/js/3.4611bd61.chunk.js": "/devFolio/static/js/3.4611bd61.chunk.js",
+    "static/js/3.4611bd61.chunk.js.map": "/devFolio/static/js/3.4611bd61.chunk.js.map",
     "static/css/4.a922a401.chunk.css": "/devFolio/static/css/4.a922a401.chunk.css",
-    "static/js/4.5475759d.chunk.js": "/devFolio/static/js/4.5475759d.chunk.js",
-    "static/js/4.5475759d.chunk.js.map": "/devFolio/static/js/4.5475759d.chunk.js.map",
+    "static/js/4.4a0d2d51.chunk.js": "/devFolio/static/js/4.4a0d2d51.chunk.js",
+    "static/js/4.4a0d2d51.chunk.js.map": "/devFolio/static/js/4.4a0d2d51.chunk.js.map",
     "index.html": "/devFolio/index.html",
-    "precache-manifest.466ab0ec9ae1961e7a1292873f2af587.js": "/devFolio/precache-manifest.466ab0ec9ae1961e7a1292873f2af587.js",
+    "precache-manifest.989241f9ab20b5fa222ba676216664aa.js": "/devFolio/precache-manifest.989241f9ab20b5fa222ba676216664aa.js",
     "service-worker.js": "/devFolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/devFolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/devFolio/static/css/4.a922a401.chunk.css.map",
@@ -44,9 +44,9 @@
     "static/media/talksCardBackAlt.svg": "/devFolio/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a002b3f0.js",
-    "static/js/2.26cc6723.chunk.js",
+    "static/js/runtime-main.1121562d.js",
+    "static/js/2.a277452d.chunk.js",
     "static/css/main.f50b41e5.chunk.css",
-    "static/js/main.cfa2f655.chunk.js"
+    "static/js/main.8ef2c477.chunk.js"
   ]
 }
