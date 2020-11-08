@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8128031fd7c66a2ae348e23a9fcbb1f2",
+    "revision": "473c18c7f1bb719924a69956f09b980b",
     "url": "/devFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devFolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "28e5d48d1e2519b28cca",
+    "revision": "48935228d75e03240f01",
     "url": "/devFolio/static/css/main.f50b41e5.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devFolio/static/js/4.5475759d.chunk.js"
   },
   {
-    "revision": "28e5d48d1e2519b28cca",
-    "url": "/devFolio/static/js/main.8fa022d1.chunk.js"
+    "revision": "48935228d75e03240f01",
+    "url": "/devFolio/static/js/main.99e87c79.chunk.js"
   },
   {
     "revision": "d053fed01882ac6118c0",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83a05b10639d238bd8c5bbab279ab911",
     "url": "/devFolio/static/media/harvardLogo.83a05b10.png"
-  },
-  {
-    "revision": "36c26165a5f7dbea6cbc65851706c1d4",
-    "url": "/devFolio/static/media/initiateLogo.36c26165.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
