@@ -11,8 +11,7 @@ const greeting = {
   subTitle: emoji(
     "Passionate Software Developer 🚀 with experience building Web and Mobile applications with Typescript / Javascript / Reactjs / Nodejs / Express / MongoDB and other great frameworks."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1zrl4K41KBoO_yYXdqb-xguQ8Dx_3Ax0X/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1zrl4K41KBoO_yYXdqb-xguQ8Dx_3Ax0X/view?usp=sharing",
 };
 
 // Your Social Media Link
@@ -34,9 +33,7 @@ const skillsSection = {
   title: "What i do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
+    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji("⚡ Integration of third party services such as AWS / Heroku"),
   ],
@@ -198,8 +195,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
@@ -220,8 +216,7 @@ const achievementSection = {
         },
         {
           name: "Google Code-in Blog",
-          url:
-            "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html",
+          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html",
         },
       ],
     },
@@ -233,8 +228,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Google Assistant Action",
-          url:
-            "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en",
         },
       ],
     },
@@ -258,8 +252,7 @@ const achievementSection = {
 
 const blogSection = {
   title: "Blogs",
-  subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+  subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
 
   blogs: [
     {
@@ -282,9 +275,7 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
-  ),
+  subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
 
   talks: [
     {
@@ -310,8 +301,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3243454077",
   email_address: "saadpasta70@gmail.com",
 };
