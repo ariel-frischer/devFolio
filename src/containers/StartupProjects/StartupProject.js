@@ -15,24 +15,13 @@ export default function StartupProject() {
       <div className="main" id="projects">
         <div>
           <h1 className="skills-heading">{bigProjects.title}</h1>
-          <p
-            className={
-              isDark
-                ? "dark-mode project-subtitle"
-                : "subTitle project-subtitle"
-            }
-          >
-            {bigProjects.subtitle}
-          </p>
+          <p className={isDark ? "dark-mode project-subtitle" : "subTitle project-subtitle"}>{bigProjects.subtitle}</p>
           <div className="startup-projects-main">
             <div className="startup-project-text">
               {bigProjects.projects.map((project) => {
                 return (
-                  <div
-                    className="saaya-health-div"
-                    onClick={() => openProjectInNewWindow(project.link)}
-                  >
-                    <img alt="Saad Working" src={project.image}></img>
+                  <div className="saaya-health-div" onClick={() => openProjectInNewWindow(project.link)}>
+                    <img alt="Ariel Working" src={project.image}></img>
                   </div>
                 );
               })}
