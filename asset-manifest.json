@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/devFolio/static/css/main.fe783a30.chunk.css",
-    "main.js": "/devFolio/static/js/main.bfce3f2f.chunk.js",
-    "main.js.map": "/devFolio/static/js/main.bfce3f2f.chunk.js.map",
-    "runtime-main.js": "/devFolio/static/js/runtime-main.6ea75433.js",
-    "runtime-main.js.map": "/devFolio/static/js/runtime-main.6ea75433.js.map",
-    "static/js/2.a3b30d60.chunk.js": "/devFolio/static/js/2.a3b30d60.chunk.js",
-    "static/js/2.a3b30d60.chunk.js.map": "/devFolio/static/js/2.a3b30d60.chunk.js.map",
+    "main.js": "/devFolio/static/js/main.4800763f.chunk.js",
+    "main.js.map": "/devFolio/static/js/main.4800763f.chunk.js.map",
+    "runtime-main.js": "/devFolio/static/js/runtime-main.53317b5b.js",
+    "runtime-main.js.map": "/devFolio/static/js/runtime-main.53317b5b.js.map",
+    "static/js/2.7ef86b31.chunk.js": "/devFolio/static/js/2.7ef86b31.chunk.js",
+    "static/js/2.7ef86b31.chunk.js.map": "/devFolio/static/js/2.7ef86b31.chunk.js.map",
     "static/css/3.3a26ebde.chunk.css": "/devFolio/static/css/3.3a26ebde.chunk.css",
-    "static/js/3.0ae47163.chunk.js": "/devFolio/static/js/3.0ae47163.chunk.js",
-    "static/js/3.0ae47163.chunk.js.map": "/devFolio/static/js/3.0ae47163.chunk.js.map",
+    "static/js/3.626cef1b.chunk.js": "/devFolio/static/js/3.626cef1b.chunk.js",
+    "static/js/3.626cef1b.chunk.js.map": "/devFolio/static/js/3.626cef1b.chunk.js.map",
     "static/css/4.ee2a0142.chunk.css": "/devFolio/static/css/4.ee2a0142.chunk.css",
-    "static/js/4.8dcf9563.chunk.js": "/devFolio/static/js/4.8dcf9563.chunk.js",
-    "static/js/4.8dcf9563.chunk.js.map": "/devFolio/static/js/4.8dcf9563.chunk.js.map",
+    "static/js/4.67985410.chunk.js": "/devFolio/static/js/4.67985410.chunk.js",
+    "static/js/4.67985410.chunk.js.map": "/devFolio/static/js/4.67985410.chunk.js.map",
     "index.html": "/devFolio/index.html",
-    "precache-manifest.516d561dbea0024905168e5ccb6f19d9.js": "/devFolio/precache-manifest.516d561dbea0024905168e5ccb6f19d9.js",
+    "precache-manifest.0b887e01e9e520f0d0ce3b24ff757e8d.js": "/devFolio/precache-manifest.0b887e01e9e520f0d0ce3b24ff757e8d.js",
     "service-worker.js": "/devFolio/service-worker.js",
     "static/css/3.3a26ebde.chunk.css.map": "/devFolio/static/css/3.3a26ebde.chunk.css.map",
     "static/css/4.ee2a0142.chunk.css.map": "/devFolio/static/css/4.ee2a0142.chunk.css.map",
@@ -45,9 +45,9 @@
     "static/media/ucsdLogo.png": "/devFolio/static/media/ucsdLogo.ecaa57d1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ea75433.js",
-    "static/js/2.a3b30d60.chunk.js",
+    "static/js/runtime-main.53317b5b.js",
+    "static/js/2.7ef86b31.chunk.js",
     "static/css/main.fe783a30.chunk.css",
-    "static/js/main.bfce3f2f.chunk.js"
+    "static/js/main.4800763f.chunk.js"
   ]
 }
