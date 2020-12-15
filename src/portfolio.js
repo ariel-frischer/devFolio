@@ -31,12 +31,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CREATE FULLY RESPONSIVE WEB APPLICATIONS",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji("⚡ Integration of third party services such as AWS / Heroku"),
   ],
+  tsIcon: require("./assets/images/icons8-typescript-250.png"),
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -87,6 +88,20 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker",
     },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git",
+    },
+    {
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github",
+    },
+    {
+      skillName: "gitlab",
+      fontAwesomeClassname: "fab fa-gitlab",
+    },
+    { skillName: "linux", fontAwesomeClassname: "fab fa-linux" },
+    { skillName: "yarn", fontAwesomeClassname: "fab fa-yarn" },
   ],
 };
 
